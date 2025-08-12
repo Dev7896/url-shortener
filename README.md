@@ -10,7 +10,7 @@ create .env file
 PORT=5000
 DBURL='yourdburl'
 
----
+```bash
 npm i
 
 
